@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'marinelife'
+project = 'sphinx'
 copyright = '2022, ghdic'
 author = 'ghdic'
 release = '1.0'
