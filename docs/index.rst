@@ -10,7 +10,8 @@ Welcome to marinelife's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   A/a1.md
+   A/a2.md
 
 Indices and tables
 ==================
