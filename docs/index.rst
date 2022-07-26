@@ -1,14 +1,21 @@
-.. marinelife documentation master file, created by
-   sphinx-quickstart on Tue Jul 26 22:44:40 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+환영합니다
+==========
 
-Welcome to marinelife's documentation!
-======================================
+인생마린의 sphinx 테스트 페이지에 오신걸 환영합니다
+
+테스트
+=========
+``그냥 아무거나 써봅니다``
+
+> 그렇읍니다
+
+    python sphinx test!
+    hello
+
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :hidden:
 
    A/a1.md
    A/a2.md
